@@ -1,4 +1,4 @@
 # hello_world
 My first repository
 
-Hello,friends my name is Yash
+Hello friends, my name is Yash.
